@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300,300italic);
+
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.controls{
+	width: 100%;
+}
+
+#search{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-size: 1em;
+	font-weight: 10;
+	padding: 5px;
+	width: 19%;
+}
+#PideCel{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-size: 1em;
+	font-weight: 10;
+	padding: 5px;
+	width: 22%;
+}
+
+#button{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-size: 1em;
+	font-weight: 300;
+	padding: 5px;
+}
+
+#Send{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-size: 1em;
+	font-weight: 300;
+	padding: 5px;
+}
+
+#results{
+	color: #990000;
+	font-size: 1em;
+	margin-left: 20px;
+}
+
+#content{
+	height: 100%;
+	box-sizing: content-box;
+	width: 100%;
+	margin: 0px auto;
+	overflow: scroll;
+}
+#content table{
+	height: 100%;
+	box-sizing: content-box;
+	width: 100%;	
+}
+
+img.image{
+	margin: 0 20px 20px 0;
+}
+
+span.finded{
+	background: #F00;
+	color: #FFF;
+}
+#titulo{
+	color: #FFF;
+}
